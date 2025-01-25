@@ -80,21 +80,8 @@ Gemini-AI-Chatbot
 └── README.md
 ```
 
-## Future Enhancements
-- Add multilingual support.
-- Integrate more advanced AI capabilities.
-- Improve UI with animations and themes.
-- Enable persistent user sessions and history.
-
-## Contributing
-Contributions are welcome! Please fork the repository and create a pull request with your proposed changes.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Acknowledgements
 - Gemini API for powering the AI responses.
 - MERN stack community for resources and guidance.
-
 ---
 
