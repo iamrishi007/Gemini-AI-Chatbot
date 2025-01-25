@@ -1,5 +1,3 @@
-# Gemini-AI-Chatbot
-
 # Gemini AI Chatbot
 
 Gemini AI Chatbot is an intelligent real-world response application built using the MERN stack and the Gemini API. This project provides users with a seamless and interactive experience for receiving AI-driven responses.
@@ -60,12 +58,15 @@ Gemini AI Chatbot is an intelligent real-world response application built using 
 5. **Access the Application**
    Visit `http://localhost:3000` in your browser to use the chatbot.
 
+6. **Live Deployment**
+   Access the deployed application here: [Gemini AI Chatbot](https://teal-bienenstitch-4ec3d1.netlify.app/)
+
 ## Project Structure
 ```
 Gemini-AI-Chatbot
 ├── client
 │   ├── src
-│   │   ├── components
+│   │   ├── pages
 │   │   ├── assets
 │   │   ├── App.js
 │   │   └── index.js
