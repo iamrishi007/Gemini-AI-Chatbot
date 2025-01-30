@@ -75,7 +75,7 @@ Gemini-AI-Chatbot
 │   ├── controllers
 │   ├── routes
 │   ├── models
-│   ├── server.js
+│   ├── index..js
 │   └── package.json
 └── README.md
 ```
