@@ -1,6 +1,6 @@
 # Gemini AI Chatbot
 
-Gemini AI Chatbot is an intelligent real-world response application built using the MERN stack and the Gemini API. This project provides users with a seamless and interactive experience for receiving AI-driven responses.
+A Gemini AI Chatbot is an intelligent real-world response application built using the MERN stack and the Gemini API. This project provides users with a seamless and interactive experience for receiving AI-driven responses.
 
 ![Gemini AI Chatbot Screenshot](https://github.com/iamrishi007/Gemini-AI-Chatbot/blob/main/client/src/assets/Screenshot%202025-01-25%20191422.png)
 
@@ -84,4 +84,3 @@ Gemini-AI-Chatbot
 - Gemini API for powering the AI responses.
 - MERN stack community for resources and guidance.
 ---
-
