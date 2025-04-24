@@ -82,5 +82,4 @@ Gemini-AI-Chatbot
 
 ## Acknowledgements
 - Gemini API for powering the AI responses.
-- MERN stack community for resources and guidance.
 ---
